@@ -1,0 +1,2 @@
+# Movie-Recommendation-System-using-Machine-Learning-with-Python
+Movie Recommendation System using Machine Learning with Python is a content-based filtering project that suggests movies based on similarity of genres, keywords, and cast. Using data preprocessing, text vectorization, and cosine similarity, the system analyzes movie features to deliver personalized and relevant movie recommendations efficiently.
